@@ -22,7 +22,7 @@ public interface MemberRepository extends JpaRepository<Member, Long> {
     public List<Member> finaAllLeaders();
     /**
      * 查询所有队伍
-     * 使用sql语句查询
+     * 使用sql语句查询5
      */
     @Query(value = "SELECT DISTINCT teamname FROM member ",nativeQuery = true)
     public List<String> findAllTeam();
