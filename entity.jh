@@ -1,0 +1,9 @@
+entity Member{
+name String //姓名
+age Integer//年龄
+teamname String//队名
+role Integer//角色 1 教练 2 队长 3 队员
+station String //常用位置
+tel    String //手机号
+}
+

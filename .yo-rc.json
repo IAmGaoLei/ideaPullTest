@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "gao.indi.test"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "gao.indi.test",
+    "packageFolder": "gao/indi/test",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGUzMDgxZmMxYmRjNjExMDM4Zjg4ZTg0MDVhYmMzOWM0ZThlYTQ3M2VkMDQ2YmQxOWUxNjBiODg3MjU3YjEyMzVhNzQzMDE1Zjg0ZTZjNzM4YmNlMTI1NzBhZDUwNWE5YzI1MTQ1NDIwZDI1NjNjNTE1MzdmYjQ5MTFjN2Q1Yjg=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}

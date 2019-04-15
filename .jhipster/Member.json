@@ -1,0 +1,39 @@
+{
+    "name": "Member",
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "age",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "teamname",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "role",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "station",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "tel",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20190413082101",
+    "entityTableName": "member",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "applications": "*"
+}
