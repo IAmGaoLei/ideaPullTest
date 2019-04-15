@@ -14,7 +14,7 @@ import java.util.List;
 @Repository
 public interface MemberRepository extends JpaRepository<Member, Long> {
     /**
-     * jpql  根据角色查询队员也就是查询队长
+     * jpql  根据角色查询队员也就是查询队长们
      * from Member where role=2
      * @return
      */
